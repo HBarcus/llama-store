@@ -1,0 +1,11 @@
+export { HomeLayout } from './HomeLayout';
+export { Landing } from './Landing';
+export { SingleProduct } from './SingleProduct';
+export { Products } from './Products';
+export { Cart } from './Cart';
+export { Error } from './Error';
+export { About } from './About';
+export { Login } from './Login';
+export { Register } from './Register';
+export { Checkout } from './Checkout';
+export { Orders } from './Orders';
